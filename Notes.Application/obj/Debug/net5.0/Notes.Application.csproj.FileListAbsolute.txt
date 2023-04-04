@@ -1,0 +1,15 @@
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.AssemblyReference.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.AssemblyInfoInputs.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.AssemblyInfo.cs
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.CoreCompileInputs.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.deps.json
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Application.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/refint/Notes.Application.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/ref/Notes.Application.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Domain.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/bin/Debug/net5.0/Notes.Domain.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Application/obj/Debug/net5.0/Notes.Application.csproj.CopyComplete

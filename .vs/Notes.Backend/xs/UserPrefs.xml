@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{8A7C4FB5-9ACC-4023-8A93-54AA29C9BF74}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Presentation.Notes.WebApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Notes.WebApi/Program.cs">
+    <Files>
+      <File FileName="Notes.WebApi/Startup.cs" Line="1" Column="1" />
+      <File FileName="Notes.WebApi/Program.cs" Line="11" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Notes.Backend" expanded="True">
+            <Node name="Core" expanded="True" />
+            <Node name="Infrastructure" expanded="True">
+              <Node name="Notes.Persistence" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Notes.WebApi" expanded="True">
+                <Node name="Program.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

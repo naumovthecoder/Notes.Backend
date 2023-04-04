@@ -1,0 +1,17 @@
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.deps.json
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Persistence.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Application.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Application.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/bin/Debug/net5.0/Notes.Domain.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.AssemblyReference.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfoInputs.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.AssemblyInfo.cs
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CoreCompileInputs.cache
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.csproj.CopyComplete
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/refint/Notes.Persistence.dll
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/Notes.Persistence.pdb
+/Users/naumov/Desktop/MicroservicesApp/Notes.Backend/Notes.Persistence/obj/Debug/net5.0/ref/Notes.Persistence.dll
